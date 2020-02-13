@@ -11,7 +11,7 @@ I used the following components in my build
 - [Round TFT](https://www.amazon.com/2-2-inch-Display-Module-Arduino/dp/B07JCV9GF5/ref=sr_1_3?keywords=round+tft&qid=1581556422&sr=8-3)
 - [Adafruit Bar Graph Backpack](https://www.adafruit.com/product/1721)
 - [Adafruit Seven Segment Display](https://www.adafruit.com/product/1002?gclid=CjwKCAiA4Y7yBRB8EiwADV1haZfbccjibicA2u9EELQtIozuy3DByIjwjPNOEUavqcKbQHWdgT7vwxoCx10QAvD_BwE)
-- [1.3" OLED Screen](https://www.amazon.com/gp/product/B07X57CJHX/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1}
+- [1.3" OLED Screen](https://www.amazon.com/gp/product/B07X57CJHX/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
 - [Key Switch](https://www.aliexpress.com/item/19mm-Brass-chrome-Key-Metal-Waterproof-brass-2-position-Push-Button-Switch-1NO-1NC-Button-press/32899745173.html?spm=2114.13010708.0.0.14274c4dnMJsgc)
 - [Push Button Switch](https://www.aliexpress.com/item/19mm-22mm-Reset-Momentary-Metal-Push-Button-Switch-LED-Light-12V-24V-110V-220V-4-Screw/32962370855.html?spm=2114.13010708.0.0.14274c4dnMJsgc)
 - [Rotary Encoder](https://www.amazon.com/WGCD-KY-040-Degree-Encoder-Arduino/dp/B07B68H6R8/ref=sr_1_5?keywords=rotary+encoder&qid=1581556807&sr=8-5)
