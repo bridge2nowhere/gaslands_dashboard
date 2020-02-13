@@ -19,11 +19,11 @@ I used the following components in my build
 - [Panel Mount MicroUSB Connector](https://www.amazon.com/Adafruit-Panel-Mount-Extension-Cable/dp/B0718XQPGB)
 
 
-##Operation
+## Operation
 
-- The keyswitch switches between cars
-- The push button is to mark a car as able to activate
-- The encoder has three modes which you change by clicking the wheel:
+### The keyswitch switches between cars
+### The push button is to mark a car as able to activate
+### The encoder has three modes which you change by clicking the wheel:
 - Primary Display - Rotate to the left to add hazards/Rotate to the right to increase gear
 - Hull Points - Left and Right adjust the number of hull points
 - Ammo - Left changes the amount of ammo in a slot, and right change which ammo slot
