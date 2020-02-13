@@ -1,7 +1,7 @@
 #include "Arduino.h"
 #include "Car.h"
 
-Car::Car(char* cname, uint8_t m_gear, uint8_t hand, uint8_t am0,uint8_t am1,uint8_t am2, uint8_t am3,uint8_t m_hull)
+Car::Car(char* cname, uint8_t m_gear, uint8_t hand, uint8_t am0,uint8_t am1,uint8_t am2, uint8_t am3,uint8_t m_hull, char* txt)
 {
    
     car_name = new char[12];
@@ -17,5 +17,7 @@ Car::Car(char* cname, uint8_t m_gear, uint8_t hand, uint8_t am0,uint8_t am1,uint
     //ammo[4] = {am[0],am[1],am[2],am[3]};
     max_hull = m_hull;
     curr_hull = m_hull;
+    canActivate = true;
+    textBlock = txt;
     
 }
