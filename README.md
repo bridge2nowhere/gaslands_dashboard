@@ -21,9 +21,9 @@ I used the following components in my build
 
 ##Operation
 
-- The Keyswitch is setup to change vehicles
+- The keyswitch switches between cars
 - The push button is to mark a car as able to activate
-- The Wheel has three modes:
--- Primary Display - Rotate to the left to add hazards/Rotate to the right to increase gear
--- Hull Points - Left and Right adjust the number of hull points
--- Ammo - Left changes the amount of ammo in a slot, and right change which ammo slot
+- The encoder has three modes which you change by clicking the wheel:
+- Primary Display - Rotate to the left to add hazards/Rotate to the right to increase gear
+- Hull Points - Left and Right adjust the number of hull points
+- Ammo - Left changes the amount of ammo in a slot, and right change which ammo slot
